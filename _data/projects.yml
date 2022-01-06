@@ -1,0 +1,23 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Pharmalogic
+- project: Pharmalogic
+  role: Founder & Primary Developer
+  duration: 2020 &mdash; 2021
+  # url: "#"
+  description: Desarrollo de una PWA (frontend & backend), con HTML, CSS, JavaScript y Google Firebase.
+
+# Liga Nacional de Robotica
+- project: E-lon
+  role: Co-creador
+  duration: 2019 &mdash; 2019
+  # url: "#"
+  description: E-lon fue un robot creado para participar en la liga nacional de robotica en la categoria de futbol.Creado con arduino en C y su diseño en SolidEdge, impreso en 3D.
+
+- project: Puckie
+  role: Participante
+  duration: Marzo 2020 &mdash; Diciembre 2020
+  # url: "#"
+  description: Puckie nacio como idea del programa "J.A Junior Achievement Argentina". Fue un empresa creada con el fin de adentrarnos en el mundo del emprendedurismo, en el medio de una pandemia.
+
